@@ -1,6 +1,6 @@
 # Advanced E-commerce Analytics (Recursive & Window Logic)
 
-An engineering-focused SQL repository demonstrating complex relational logic, recursive tree traversal, and customer segmentation.
+An Dynamic-focused SQL repository demonstrating complex relational logic, recursive tree traversal, and customer segmentation.
 
 
 <img width="634" height="58" alt="dbadvance" src="https://github.com/user-attachments/assets/0c5d8120-de51-4353-87e5-6cb4ab3a946b" />
